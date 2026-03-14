@@ -133,3 +133,9 @@ python image_translator.py <input_image_path> <output_image_path> --project_id <
 *   `translated_product_image/`: 결과 이미지들이 저장되는 디렉토리입니다.
 *   `debug_chunks/`: 분할된 원본 조각들이 디버깅용으로 저장되는 디렉토리입니다.
 *   `debug_translated_chunks/`: 처리된(번역된) 조각들이 디버깅용으로 저장되는 디렉토리입니다.
+
+## 참고 자료 (References)
+
+*   [Bringing Nano Banana 2 to enterprise | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/bringing-nano-banana-2-to-enterprise)
+*   [Gemini 3.1 Flash Image  |  Generative AI on Vertex AI  |  Google Cloud Documentation](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/3-1-flash-image)
+*   [Gemini 3.1 Pro  |  Generative AI on Vertex AI  |  Google Cloud Documentation](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/3-1-pro)
