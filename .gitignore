@@ -1,0 +1,31 @@
+.DS_Store
+__pycache__
+__static__
+
+debug_chunks/
+debug_translated_chunks/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log

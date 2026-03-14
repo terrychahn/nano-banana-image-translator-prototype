@@ -1,0 +1,5 @@
+Based on the provided image, perform a precise text-editing task. Identify all Korean text elements situated outside of the physical product labels or product designs themselves (e.g., floating captions, background text, explanatory overlays). Replace exclusively these specific text blocks with accurate, natural-sounding Japanese translations. Additionally, do not attempt to translate any small text that is difficult to recognize. Leave such text unedited in its original form.
+
+The new Japanese text must perfectly mimic the original typography: match the font style, color, size, alignment, and exact spatial layout of the source Korean text it replaces.
+
+It is vital that the rest of the image remains completely untouched. Preserve the exact appearance of the products and any text directly printed on them, as well as all people, objects, background textures, lighting, and colors. The final output must maintain the identical dimensions and aspect ratio of the input image. Strictly ensure no new text areas, captions, or visual elements are added to the composition that were not present in the original source image.
